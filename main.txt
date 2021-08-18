@@ -4,3 +4,4 @@ nice
 main
 New line added in remote 
 New lines must be added
+newlinetocheck
