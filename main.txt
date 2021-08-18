@@ -9,4 +9,7 @@ newlinetocheck
 =======
 newlineadded vis remote
 >>>>>>> 093d60767feaf73cfcceaf0b74538b1466e0facc
+<<<<<<< HEAD
 merging file via local
+=======
+
