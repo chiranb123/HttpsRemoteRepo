@@ -4,4 +4,8 @@ nice
 main
 New line added in remote 
 New lines must be added
+<<<<<<< HEAD
 newlinetocheck
+=======
+newlineadded vis remote
+>>>>>>> 093d60767feaf73cfcceaf0b74538b1466e0facc
